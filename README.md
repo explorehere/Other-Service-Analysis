@@ -1,5 +1,5 @@
 # ***OTHER SERVICE ANALYSIS***
-#***OTHER SERVICE ANALYSIS*** | #***Description***
+***OTHER SERVICE ANALYSIS*** | ***Description***
 ----------------------------|-------------------------
 *Incident Date*	                |             *02-03-2020*
 *Incident Description*	         |             ***AC Service***
